@@ -26,7 +26,7 @@ Kevin Nichols<br>
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Christopher Echeverria             |  |
+| Christopher Echeverria             | link |
 | Khalid Hamdam          | link |
 | Julian Mitchell             | link |
 | Elisabeth Sabbagh              | link |
