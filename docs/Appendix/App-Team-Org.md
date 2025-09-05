@@ -84,7 +84,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+For conflicts, we will first discuss within the group to see if there is a solution we can make happen. If the issue is unable to be solved, we will then make a meeting with a professor to see if a solution is possible that way instead.
 
 
 ## Signatures
