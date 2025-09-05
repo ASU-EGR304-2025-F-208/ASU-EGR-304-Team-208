@@ -6,12 +6,8 @@ tags:
 ---
 
 ## Team Charter
+> We at JECK™, believe in creating simple and durable devices suited for assisting in everday life. This starts with making sure the user experience as simple as possible, no need for ridiculous long instructions. Simply all the customer should need to do is install the product and turn on. Along with having our products be versatile.
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
-
-> 
 ## Product Mission Statement
 
-Describe the distilled purpose, function, or reason for your product to exist. From this form a team mission statement. Google's mission statement is:
-
- > "Google's mission is to organize the world's information and make it universally accessible and useful."
+Our poduct is made to help conserve energy usage around a house, and help cut down on energy waste. This in turn helps cut down on the energy being drawn from the grid as energy consumption on the national level increases.
