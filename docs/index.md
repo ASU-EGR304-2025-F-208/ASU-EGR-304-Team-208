@@ -7,8 +7,8 @@ tags:
 <center>
 <font size="8">Project Name<br>
 <font size="5">Team 208<br>
-**Submission: month, DD, YYYY**<br>
-Fall 2024<br>
+**Submission: September, 5th, 2025**<br>
+Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
 Kevin Nichols<br>
