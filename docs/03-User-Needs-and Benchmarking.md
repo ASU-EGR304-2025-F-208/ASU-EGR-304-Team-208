@@ -67,55 +67,49 @@ tags:
     Number of Reviews: 1 Review — 3 out of 5 Stars  
     [Link](https://www.apecwater.com/products/wifi-water-leak-detector-for-home-app-connected-get-real-time-alerts-highly-reliable-dual-sensor-wet-moisture-detection)  
 
-11. **Flo 1 in. Smart Water Monitor**  
-    Search Query: Water Monitor  
-    Keywords: Monitor and Leak detector  
-    Number of Reviews: 1044 Reviews — 5 out of 5 Stars  
-    [Link](https://www.homedepot.com/p/MOEN-Flo-1-in-Smart-Water-Monitor-and-Automatic-Water-Shut-Off-Valve-900-006/312305316)  
-
-12. **Smart Leak Detectors (1-Pack)**  
+11. **Smart Leak Detectors (1-Pack)**  
     Search Query: Water leak detector  
     Keywords: Leak detector  
     Number of Reviews: 271 Reviews — 4 out of 5 Stars  
     [Link](https://www.homedepot.com/p/MOEN-Smart-Leak-Detectors-1-Pack-920-004/312855333)  
 
-13. **GoveeLife Upgraded Smart Water Leak Detector**  
+12. **GoveeLife Upgraded Smart Water Leak Detector**  
     Search Query: Water leak detector  
     Keywords: Leak detector  
     Number of Reviews: 570 Reviews — 4.5 out of 5 Stars  
     [Link](https://a.co/d/1rRC8sh)  
 
-14. **Flume 2 Smart Home Water Monitor & Leak Detector**  
+13. **Flume 2 Smart Home Water Monitor & Leak Detector**  
     Search Query: Water leak monitor and detector  
     Keywords: Leak detector  
     Number of Reviews: 1883 Reviews — 4 out of 5 Stars  
     [Link](https://a.co/d/e8ZM4zx)  
 
-15. **SwitchBot WiFi Smart Water Leak Sensor**  
+14. **SwitchBot WiFi Smart Water Leak Sensor**  
     Search Query: Water Leak Sensor  
     Keywords: Leak detection  
     Number of Reviews: 1010 Reviews — 4.5 out of 5 Stars  
     [Link](https://www.amazon.com/dp/B0B7ZLZP9Q)  
 
-16. **Moen Flo Smart Water Monitor and Automatic Shutoff Sensor**  
+15. **Moen Flo Smart Water Monitor and Automatic Shutoff Sensor**  
     Search Query: Water pipe leak detection sensor  
     Keywords: Pipe, leak detection  
     Number of Reviews: 1960 Reviews — 3.8 out of 5 Stars  
     [Link](https://www.amazon.com/dp/B07C5PS64P)  
 
-17. **YoLink DIY Automatic Water Leak Detection & Shut-Off Starter Kit**  
+16. **YoLink DIY Automatic Water Leak Detection & Shut-Off Starter Kit**  
     Search Query: Smart home system water leak sensor  
     Keywords: Smart home, system  
     Number of Reviews: 267 Reviews — 4.6 out of 5 Stars  
     [Link](https://www.amazon.com/YoLink-Automatic-Detection-Manipulator-Controller/dp/B098QP4ZLH)  
 
-18. **FloodStop Water Sensor**  
+17. **FloodStop Water Sensor**  
     Search Query: Refrigerator Water Leak Sensor  
     Keywords: Refrigerator, leak  
     Number of Reviews: 192 Reviews — 4.4 out of 5 Stars  
     [Link](https://www.amazon.com/dp/B001GUNJJO)  
 
-19. **WiFi Water Leak Detector for Home with App Notification**  
+18. **WiFi Water Leak Detector for Home with App Notification**  
     Search Query: Smart home water leak sensor  
     Keywords: Smart home  
     Number of Reviews: 253 Reviews — 4.5 out of 5 Stars  
