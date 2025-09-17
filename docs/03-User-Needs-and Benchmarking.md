@@ -119,4 +119,46 @@ tags:
     Search Query: Smart home water leak sensor  
     Keywords: Smart home  
     Number of Reviews: 253 Reviews — 4.5 out of 5 Stars  
-    [Link](https://www.amazon.com/dp/B08R61HJXN)  
+    [Link](https://www.amazon.com/dp/B08R61HJXN)
+
+
+    **Repeated and Most Helpful Statements From Positive Reviews:**  
+- Ease of use/ Installation  
+- Peace of mind  
+- Value for money  
+- Functionality  
+- Specific models were straightforward to set up  
+- Gave customers peace of mind by just working  
+- Integrates easily with other devices, making it a better package overall  
+- An inexpensive way to prevent a lot of repair costs, since it catches leaks before they become bigger issues  
+- Compact size made it easier to set up  
+- Great for spotting leaks and pressure issues, even caught a bad valve. Some false alarms but worth it.  
+- Works great! Lets you check anytime and email test results.  
+- Good sensors, but AA/AAA batteries would be cheaper.  
+- Great product with helpful info, setup was complicated but easy battery replacement.  
+- Access to historical data has been helpful in identifying water consumption and inefficiencies. — Moen  
+- Alerts are immediate and timely while offering a loud noise to indicate an issue. — Switchbot  
+- The valve operator comes with adapters, clamps and rings to better fit your water main’s construction — Yolink  
+- Clearly labeled parts, app instructions and versatile parts make for an easy installation — Metak  
+- Communication on a main hub/app that displays low battery life and other states makes usability high — Metak  
+
+**Repeated and Most Helpful Statements From Negative Reviews:**  
+- Connection/ App Issues  
+- Tedious to set up (especially for products w/multiple sensors)  
+- Build quality  
+- Battery runs out quick (for products who use batteries)  
+- False alarms when there is no water  
+- A weak battery means constant replacement  
+- The app for the device is not user-friendly  
+- The alarm itself is far too quiet  
+- Installation was complicated for some models  
+- Flume 2 works but the pricey battery pack is wasteful and short-lived. No signal strength tool, first unit failed, though support replaced it.  
+- 16 of 18 sensors died in under a day. Setup is tedious, only works on 2.4 GHz Wi-Fi, and other brands offer more.  
+- Plumber installed it, but the valve wouldn’t connect, the app was slow, and support didn’t help. Returned it.  
+- Worked at first, but later failed to detect a flood and now won’t reconnect.  
+- There is a lack of clarity on where to install sensors from the manufacturer and professional consults. — Moen  
+- Sensors on the device are relatively sensitive and can be set off with a small puddle if not a small drop of water — Yolink  
+- The cost of replacement for the sensors is quite pricey — FloodStop  
+- Not compatible with certain Wi-Fi setups (5 MHz) — Metak  
+- Default settings without adjustment can create false triggers that have to be addressed in 5 minutes or water can potentially shut off. Such false triggers could include taking a shower — Moen  
+
