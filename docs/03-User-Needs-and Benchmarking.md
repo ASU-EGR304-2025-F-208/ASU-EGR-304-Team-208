@@ -5,86 +5,138 @@ tags:
 - tag2
 ---
 
-## Et poposcerat rursus ad magnus premit
+## Product Type: Water leak sensor
 
-Lorem markdownum gradus, qui largis, nec pater pleno: fatum. Adspexit cursus
-cur, aut in adhuc crimina **habebat**: pro.
+1. Flo 0.75 in. Smart Water Monitor and Automatic Water Shut Off Valve
 
-- Et ducimus
-- Prosecta hinc nix vidi rettulit cum sitim
-- Has in tonitribus tenebrae Romane mirantum resupina
-- Figuras et dextram
+Search Query: Water Leak Detector 
+Keywords: Water leak system 
+Number of Reviews:1054 Reviews -  4.5 out of 5 Stars 
+Link: https://www.homedepot.com/p/MOEN-Flo-0-75-in-Smart-Water-Monitor-and-Automatic-Water-Shut-Off-Valve-900-001/309096191
 
-## Esse quoque sedem plena nunc iecur
+2. Smart Water Leak and Freeze Detector, Battery Operated
 
-Possemque suos dumque. Deum recta rogantem, inquinat facta gigantas; ego nisi
-mea. Nec tamen quae gravem, potens, [cognoscendo
-scripta](http://vidit-lumine.io/sinusdeum). *Nihil ventis Aeneae* probat.
+Search Query: Water Leak Detector 
+Keywords: Water leak system
+Number of Reviews:176 Reviews- 4 out of 5 Stars 
+Link: https://www.homedepot.com/p/Kidde-Smart-Water-Leak-and-Freeze-Detector-Battery-Operated-21031205/320218668
 
-1. listum primo
+3. E-SDS Water Leak Detector 
 
-    discusso el codex:
+Search Query: Water Leak Detector & Alarms
+Keywords: Water leak system
+Number of Reviews: 162 Reviews- 4.1 out of 5 Stars
+Link: https://www.amazon.com/Detector-Shutoff-Sensors-Automatic-Prevention/dp/B07C5PS64P?th=1
+Frizzlife LP365 Smart Water Monitor
 
-        if (pimProgressiveMashup(recursive_upnp_barcraft, seo) == file.station_leaf(
-                optical + 1, compact_docking)) {
-            rt_programming_system(udpScraping, marketRegularMetal,
-                    threadingNuiRoom);
-            vlogVaporwarePage += 5 + xhtmlDiskReader;
-            access.kbps_footer.dialogZettabyte(3, cloud_midi_spoofing, ipad_macro);
-        }
-        if (maskProcessorKbps(programming, user, cache_web) >= file *
-                publishingDual) {
-            hibernate.flash_network -= 4;
-            bar = goodput_flash;
-            streaming = voip_flatbed - 1;
-        } else {
-            clipCd(jquery, 55 - -1, touchscreen);
-            plagiarism_command_e = cleanHardIcio;
-            recursion = checksum;
-        }
-        clock(roomCaptcha, 2);
+4. Frizzlife LP365 Smart Water Monitor
 
-2. listum secundum
+Search Query: Water Leak Detector & Alarms
+Keywords: Water leak system
+Number of Reviews: 69 Reviews- 4.6 out of 5 Stars 
+Link: https://www.amazon.com/dp/B0DSKG73XB
 
-    > warningum alertum
+5. GROHE Indoor Smart Compatible Water leak detector
+ 
+Search Query: Water Leak Detector System
+Keywords: Water leak system
+Number of Reviews: 30 Reviews - 4.6 out of 5 Stars
+Link: https://www.lowes.com/pd/GROHE-GROHE-22601LN0-Water-Leak-Detectors/5015174141
 
-3. listum adnauseum
+6. SimpliSafe - Water Sensor
+   
+Search Query: Water leak sensor
+Keywords:
+Number of Reviews: 210 - 4.7 out of 5
+Link: https://www.bestbuy.com/product/simplisafe-water-sensor-white/J3L6GWR5PW/sku/6305563?extStoreId=1189 
 
-## Pondus ante Ialysios vultu exasperat loqui sanguine
+7. Alarm Flood And Freeze Sensor, Wireless
+   
+Search Query: Water leak sensor
+Keywords:
+Number of Reviews: 23 - 4.5 out of 5
+Link: https://www.homedepot.com/p/Ring-Alarm-Flood-And-Freeze-Sensor-Wireless-4SF1S8-0EN0/308508194?source=shoppingads&locale=en-US&srsltid=AfmBOorMJW-xDzjYZavANg7UDoFIfJGg7WnKTEb2gNYFCtpkVJX_TLBdRyg
 
-Iacere non, quis nimbis. Dumque tibi minora clamabat contigit vacant, sepulcro
-coniugis quae; mihi! Solent adeste faventibus, perque penates, currere in quater
-Odrysius ferro, vota, vero mittat crinibus, quae. Hanc mundi, ipse vultu voce
-sub quae heros forsitan imagine in tecum Cephalus? Formosissimus vela; vapore
-oris, aera, utendum ostendisse regnum Centaurorum elice.
+8. Water Heater and Sump Pump Re-Useable Water Leak Detector with Alarm
+   
+Search Query: 
+Keywords:
+Number of Reviews: 176 - 4 out of 5
+Link: https://www.homedepot.com/p/Resideo-Water-Heater-and-Sump-Pump-Re-Useable-Water-Leak-Detector-with-Alarm-RWD21/204116885?source=shoppingads&locale=en-US&srsltid=AfmBOoqUbXT4lqb3lj4eRtFC1yQqwrnezblyFB0--5baEv-wCaqOywAIP10
 
-    if (searchVrmlCpm <= traceroute) {
-        bittorrentExbibyte = del;
-        fsb_left = -2 + lifoTypeSpam;
-        sync.bcc(errorAtm(66, boot, link), meta_personal_hdd, leak.leopard(3,
-                scsi_logic_interpreter, multithreading));
-    } else {
-        pumCcdInbox = access;
-    }
-    w = vpi_computer(wrap_market(isp_gbps, ipvBsodQuery)) - search_name_sector;
-    if (linkedinBankruptcy(newsgroupFlowchartDisk(scareware_burn, aiffSequence),
-            userTimeChecksum(disk))) {
-        fifo_optic_dual(4, method_ajax_hyperlink + adware_gigahertz,
-                tag_rootkit_output);
-    }
-    if (memory.fsb(client_template, typeface_memory_bridge) < newbie_socket_gif(
-            storageModemDrive, kilohertz_yottabyte_middleware)) {
-        dimm.dvd_character.hover(hibernate);
-        exif = unmountVirusRss * 5;
-    } else {
-        localhost_adapter += character_olap_white;
-        subnet(internal_dongle + card);
-    }
-    var hibernateAlert = formatCmsCompression(1 / and_tcp + 5);
+9. Eufy Water and Freeze Sensor with Remote Alerts
+    
+Search Query: 
+Keywords:
+Number of Reviews: 34 - 4.5 out of 5
+Link: https://www.eufy.com/products/t89200d1?variant=42863746252986&srsltid=AfmBOorJViMrbLbWb-dsl697-cLrS_qtBJGLtcA4pvtF3VdQPbgOUraw8T4 
 
-Miserande evanida amanti, succiduo, dare mihi quid amnis venit Rhadamanthus.
-Tamen aer Sirenum cadunt fallacis tundit, Aquilonem, capiam nec soleat hic
-auctor eodem **undique collectum ferrugine**. Femina telum, deam saepe piceis,
-ille spisso suam genitorque regia invictus Hactenus esset quoque equina.
-Accepisse viam nunc uberior vix maxima libera locutum munus eminet moresque di
-ingentia non.
+10. Wi-Fi Water Leak Detector for Home, App Connected, Get Instant Alerts, Highly Reliable Dual Sensor Wet Moisture Detection
+    
+Search Query: 
+Keywords:
+Number of Reviews: 1 - 3 out of 5
+Link: https://www.apecwater.com/products/wifi-water-leak-detector-for-home-app-connected-get-real-time-alerts-highly-reliable-dual-sensor-wet-moisture-detection?variant=46354543018237&srsltid=AfmBOopckjEoUQ5qW1hnMasEALkYAx3KMeYMJlvplhWtWoDuukTg2uVJTSw 
+
+11. Flo 1 in. Smart Water Monitor
+
+Search Query: Water Monitor
+Keywords: Monitor and Leak detector
+Number of Reviews: 1044 - 5: star
+Link: https://www.homedepot.com/p/MOEN-Flo-1-in-Smart-Water-Monitor-and-Automatic-Water-Shut-Off-Valve-900-006/312305316
+
+12. Smart Leak Detectors (1-Pack)
+
+Search Query: water leak detector
+Keywords: Leak detector
+Number of Reviews: 271 - 4: star
+Link: https://www.homedepot.com/p/MOEN-Smart-Leak-Detectors-1-Pack-920-004/312855333
+
+13. GoveeLife Upgraded Smart Water Leak Detector
+
+Search Query: water leak detector
+Keywords: Leak detector
+Number of Reviews: 570 - 4.5: star
+Link: https://a.co/d/1rRC8sh
+
+14. Flume 2 Smart Home Water Monitor & Leak Detector
+
+Search Query: water leak monitor and detector
+Keywords: Leak detector
+Number of Reviews: 1883 - 4 star 
+Link: https://a.co/d/e8ZM4zx
+
+15. SwitchBot Wifi Smart Water Leak Sensor
+
+Search Query: Water Leak Sensor
+Keywords: Leak detection
+Number of Reviews: 1010 - 4.5/5 stars
+Link: SwitchBot WiFi Water Sensor, Smart Water Leak Detector, 100dB Adjustable Alerts & App Alerts, IP67 Waterproof, Wireless Detector for Kitchen, Bathroom, Basement, No Hub Required (Support 2.4G) - Amazon.com
+
+16. Moen Flo Smart Water Monitor and Automatic Shutoff Sensor
+    
+Search Query: Water pipe leak detection sensor
+Keywords: Pipe, leak detection
+Number of Reviews: 1960 - 3.8/5 stars
+Link: Moen Flo Smart Water Monitor and Automatic Shutoff Sensor, Wi-Fi Water Leak Detector for 3/4-Inch Diameter Pipe, 900-001 - Tub And Shower Faucets - Amazon.com
+
+17. YoLink DIY Automatic Water Leak Detection & Shut-Off Starter Kit
+    
+Search Query: Smart home system water leak sensor
+Keywords: Smart home, system
+Number of Reviews: 267 - 4.6/5 stars
+Link: https://www.amazon.com/YoLink-Automatic-Detection-Manipulator-Controller/dp/B098QP4ZLH/ref=asc_df_B098QP4ZLH?tag=bingshoppinga-20&linkCode=df0&hvadid=80333187611085&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=77827&hvtargid=pla-4583932715230224&psc=1 
+
+18. FloodStop Water Sensor
+    
+Search Query: Refrigerator Water Leak Sensor
+Keywords: Refrigerator, leak
+Number of Reviews: 192 - 4.4/5
+Link: FloodStop Water Sensor, Wired - Water Alarms - Amazon.com
+
+19. WiFi Water Leak Detector for Home with App Notification
+    
+Search Query: Smart home water leak sensor
+Keywords: smart home 
+Number of Reviews: 253 - 4.5/5 stars
+Link: WiFi Water Leak Detector for Home with App Notification, 1 Gateway + 6 WD61 Sensor, 120dB Water Flood/Drip Alarm for Basement/Kitchen/Bathroom/Toilet/Laundry Room, Sink/Drain/Pipe/Faucet Leakage Alert - Amazon.com
