@@ -10,4 +10,4 @@ tags:
 
 ## Product Mission Statement
 
-Our poduct is made to help conserve energy usage around a house, and help cut down on energy waste. This in turn helps cut down on the energy being drawn from the grid as energy consumption on the national level increases.
+Our leak dectection device is designed to save home owners money in the long term by alerting them whenever there
