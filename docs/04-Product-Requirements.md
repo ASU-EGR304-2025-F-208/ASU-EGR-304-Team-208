@@ -32,8 +32,7 @@ Recently, Donna had a faulty door lock mechanism on her washer that caused sever
 
 ## Aspects
 | Req id | Category | Requirement | Verification Method(s) | Priority |
-| 1 | Functionality  | The product shall run off batteries so it doesn’t fail during a power outage. | The device should have its own battery system contained within and verified by having battery storage. 
-<br> The device should have a long battery life. Verified by running for 6 months. <br> The device should be able to have its battery swapped easily. Verified by testing how fast the battery can be removed and put back in. | 10 |
+| 1 | Functionality  | The product shall run off batteries so it doesn’t fail during a power outage. | The device should have its own battery system contained within and verified by having battery storage. <br> The device should have a long battery life. Verified by running for 6 months. <br> The device should be able to have its battery swapped easily. Verified by testing how fast the battery can be removed and put back in. | 10 |
 | 2 | Functionality  | The product shall detect water leaks within the area it is located, using a water sensor | The device should turn on the alarm whenever water is detected. Verified by placing it in different levels of water, and | 10 |
 | 3 | Functionality  | The product shall have a temperature sensor to detect the temperature of the water | The device should be able to give the temperature of water in Fahrenheit. Verified by placing it in different temperature water and seeing if it provides an accurate reading, ranging from water at 40°F to 200°f | 2 |
 | 4 | User Experience | The product shall have a simple installation and setup process, requiring no more than 5 steps or 10 minutes. | The device should not need fasteners to function. Verified by seeing if it’ll stay still, being placed on a leveled service.
