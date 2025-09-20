@@ -33,24 +33,15 @@ Recently, Donna had a faulty door lock mechanism on her washer that caused sever
 ## Aspects
 | Req ID | Category        | Requirement                                                                 | Verification Method(s)                                                                                                                                                                                                 | Priority |
 |--------|------------------|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| 1      | Functionality     | The product shall run off batteries so it doesn’t fail during a power outage. | - Verify presence of internal battery system.  
-- Confirm battery life by continuous operation for 6 months.  
-- Test battery swap time to ensure quick replacement.                                                  | 10       |
-| 2      | Functionality     | The product shall detect water leaks within the area it is located, using a water sensor. | - Place device in varying water levels (e.g., shallow puddle, full submersion) and verify alarm activation.  
-- Confirm sensor responsiveness and repeatability.                                                       | 10       |
-| 3      | Functionality     | The product shall have a temperature sensor to detect the temperature of the water. | - Place device in water ranging from 40°F to 200°F.  
-- Compare readings to calibrated thermometer to verify accuracy in Fahrenheit.                                                                                   | 2        |
-| 4      | User Experience   | The product shall have a simple installation and setup process, requiring no more than 5 steps or 10 minutes. | - Test installation time across multiple users.  
-- Verify stability on a level surface without fasteners.  
-- Confirm presence of optional mounting holes for fastening.                                              | 8        |
-| 5      | Hardware          | The product shall be easily repairable if it breaks during operation.       | - Disassemble device and time how long it takes a user to identify internal components.  
-- Evaluate clarity of labeling and accessibility of parts.                                                                   | 5        |
-| 6      | Safety            | The product shall be safe to use (waterproof).                              | - Submerge or splash device and verify no electrical shock or leakage.  
-- Inspect waterproofing of circuits and enclosure integrity.                                                                                  | 10       |
-| 7      | Manufacturing     | The product shall be economical for the business and consumer.              | - Review BOM for part count and redundancy.  
-- Perform cost analysis to confirm 15% profit margin.  
-- Model consumer savings over one year to confirm $500 benefit.                                                 | 5        |
-
+| 1 | Functionality  | The product shall run off batteries so it doesn’t fail during a power outage. | The device should have its own battery system contained within and verified by having battery storage. The device should have a long battery life. Verified by running for 6 months. The device should be able to have its battery swapped easily. Verified by testing how fast the battery can be removed and put back in. | 10 |
+| 2 | Functionality  | The product shall detect water leaks within the area it is located, using a water sensor | The device should turn on the alarm whenever water is detected. Verified by placing it in different levels of water, and | 10 |
+| 3 | Functionality  | The product shall have a temperature sensor to detect the temperature of the water | The device should be able to give the temperature of water in Fahrenheit. Verified by placing it in different temperature water and seeing if it provides an accurate reading, ranging from water at 40°F to 200°f | 2 |
+| 4 | User Experience | The product shall have a simple installation and setup process, requiring no more than 5 steps or 10 minutes. | The device should not need fasteners to function. Verified by seeing if it’ll stay still, being placed on a leveled service.
+<br> The device should still be able to use them if the user requires it to be fastened down. Verified by having a casing with mounting holes. | 8 |
+| 5 | Hardware | Product Design | The product shall be easily repairable if it breaks during operation | The internals of the device should be easy to identify. Verified by testing how fast a consumer can identify each part. | 5 |
+| 6 | Safety | The product shall be safe to use (waterproof) | The device should not shock the user when wet. Verified by checking if the circuits are waterproof | 10 |
+| 7 | Manufacturing | The product shall be economical for the business and consumer | The device should be designed using minimal parts. Verify by checking for unnecessary redundancy. The device should provide 15% profit  margin per unit sold and save the consumer $500 a year. 
+ | 5 |
 ## Open Questions
 
 * For example, can we move towards a recyclable and repairable product with ZIF connectors and glue/solder-free assembly?
