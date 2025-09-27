@@ -4,9 +4,11 @@ tags:
 - tag1
 - tag2
 ---
+## Introduction 
+
+The goal of this project is to ideate and document the design features of an innovative home water leak detection system. The exhibit presents multiple design visions to provide the client with a variety of options that balance usability, safety, and technical functionality. Our objective is to offer clear, organized, and well researched features that respond to real user needs—primarily homeowners, as well as retailers and service teams support ease of maintenance, and provide unique selling points for marketing and retail purposes.
 
 ## Generated Ideas
-
 
 | #   | Requirement / Need                                                            | Feature                                        | Detail                                                                                                                                |
 | --- | ----------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,11 +115,14 @@ tags:
 
 ## Sort, Rank, and Group Ideas
 
-Concept 1: Water pressure sensing  & spot leak sensor with external box , 9V battery pack powered, buzzer alarm via OLED Panel 
+Primary Choice – Concept 1:
+Water pressure sensing & spot leak sensor with external box, 9V battery pack powered, buzzer alarm via OLED Panel.
 
-Concept 2: Plastic, Polypropylene, water sensor, Ultrasonic, Bluetooth, AAA Battery, LED, light sensor, Cable-Type sensor, Buttons, waterproof circuit.
+Second Choice – Concept 2:
+Plastic, Polypropylene, water sensor, Ultrasonic, Bluetooth, AAA Battery, LED, light sensor, Cable-Type sensor, Buttons, waterproof circuit.
 
-Concept 3: Plastic, 9-volt battery pack, moisture sensor, Fire alarm-style lights, Adhesive, common parts, non-conductive touch points, Intuitive battery replacement, Non-polar case coat
+Third Choice – Concept 3:
+Plastic, 9 volt battery pack, moisture sensor, Fire alarm-style lights, Adhesive, common parts, non-conductive touch points, Intuitive battery replacement, Non-polar case coat.
 
 ## Three product concept sketches
 
