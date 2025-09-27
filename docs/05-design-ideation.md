@@ -6,7 +6,7 @@ tags:
 ---
 ## Introduction 
 
-The goal of this project is to ideate and document the design features of an innovative home water leak detection system. The exhibit presents multiple design visions to provide the client with a variety of options that balance usability, safety, and technical functionality. Our objective is to offer clear, organized, and well researched features that respond to real user needs—primarily homeowners, as well as retailers and service teams support ease of maintenance, and provide unique selling points for marketing and retail purposes.
+The goal of this project is to ideate and document the design features of an innovative home water leak detection system. The exhibit presents multiple design visions to provide the client with a variety of options that balance usability, safety, and technical functionality. Our objective is to offer clear, organized, and well researched features that respond to real user needs primarily homeowners, as well as retailers and service teams support ease of maintenance, and provide unique selling points for marketing and retail purposes.
 
 ## Generated Ideas
 
