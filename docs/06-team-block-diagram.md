@@ -8,11 +8,11 @@ This page showcases the team's subsystems designed and built by each team member
 
 The subsystems are connected in a **daisy chain configuration** via a **2×4 IDC female header** using an **8-wire ribbon cable**, enabling smooth coordination and data sharing between boards. This modular design allows each board to operate independently while also integrating seamlessly into the full system.
 
-Below is a diagram of the daisy chain setup to visualize the **connections and data flow** between the individual PCBs:
+Below is a diagram of the daisy chain setup to visualize the **connections and data flow** between the individual subsytems:
 
 ![Team Subsystem Diagram](images/TEAM%20DIAGRAM%20BLOCK.drawio.png)
 
-> **Note:** Each subsystem implements unique functionality, ensuring no overlap and highlighting the contributions of each team member toward the final water detection system.
+> **Note:** Every subsystem has a different function, so all team contributions come together to form the complete system.
 
 
 
