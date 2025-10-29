@@ -10,7 +10,7 @@ The subsystems are connected in a **daisy chain configuration** via a **2×4 IDC
 
 Below is a diagram of the daisy chain setup to visualize the **connections and data flow** between the individual subsytems:
 
-![Team Subsystem Diagram](images/TEAM%20DIAGRAM%20BLOCK.drawio.png)
+![Team Subsystem Diagram](images/teamblockupdated.png)
 
 > **Note:** Every subsystem has a different function, so all team contributions come together to form the complete system.
 
