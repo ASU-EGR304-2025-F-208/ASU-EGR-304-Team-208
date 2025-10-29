@@ -28,7 +28,7 @@ This system is designed to give users peace of mind by providing early detection
 
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
-| Cristopher Echeverria             | [*link*](https://cgutie40.github.io/) |
-| Khalid Hamdam          | link |
-| Julian Mitchell             | link |
-| Elisabeth Sabbagh              | link |
+| Cristopher Echeverria  | [*link*](https://cgutie40.github.io/) |
+| Khalid Hamdam          | [link](https://khamdan24.github.io/) |
+| Julian Mitchell        | link |
+| Elisabeth Sabbagh      | link |
