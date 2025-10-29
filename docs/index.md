@@ -30,5 +30,5 @@ This system is designed to give users peace of mind by providing early detection
 | ---------------------- | -----------------------|
 | Cristopher Echeverria  | [*link*](https://cgutie40.github.io/) |
 | Khalid Hamdam          | [link](https://khamdan24.github.io/) |
-| Julian Mitchell        | link |
+| Julian Mitchell        | [link](https://julian-a0.github.io/) |
 | Elisabeth Sabbagh      |  [link](https://cryptic-bunny.github.io/) |
