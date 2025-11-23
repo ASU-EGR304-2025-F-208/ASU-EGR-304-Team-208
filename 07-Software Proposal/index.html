@@ -90,7 +90,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#introduction" class="md-skip">
+        <a href="#system-flow-overview" class="md-skip">
           Skip to content
         </a>
       
@@ -555,9 +555,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#introduction" class="md-nav__link">
+  <a href="#system-flow-overview" class="md-nav__link">
     <span class="md-ellipsis">
-      Introduction
+      System Flow Overview
     </span>
   </a>
   
@@ -642,9 +642,9 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#introduction" class="md-nav__link">
+  <a href="#system-flow-overview" class="md-nav__link">
     <span class="md-ellipsis">
-      Introduction
+      System Flow Overview
     </span>
   </a>
   
@@ -675,8 +675,12 @@
 
   <h1>Software Proposal</h1>
 
-<h2 id="introduction">Introduction</h2>
-<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/v1.drawio.png" data-desc-position="bottom"><img alt="showcase" src="../images/v1.drawio.png"></a></p>
+<h3 id="system-flow-overview">System Flow Overview</h3>
+<p>The diagram illustrates the core operation of the Water Detection Subsystem. The system runs in a continuous loop, initializing the PIC18F57Q43 microcontroller, reading sensor inputs, updating states based on humidity, pressure loss, or water detection, and setting outputs accordingly. Each detection condition activates its corresponding LED indicator.</p>
+<blockquote>
+<p><strong>Note:</strong> If any of the outputs—<strong>humidity</strong>, <strong>pressure loss</strong>, or <strong>water</strong>—are detected, the <strong>alarm will be triggered</strong>.</p>
+</blockquote>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/Team%20Software%20Proposal.drawio.png" data-desc-position="bottom"><img alt="showcase" src="../images/Team%20Software%20Proposal.drawio.png"></a></p>
 
 
 
