@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Team Charter
-> At JECK™, we believe in creating simple and durable devices that assist with everyday life. This starts with ensuring the user experience is as straightforward as possible—no need for ridiculously long instructions. Ideally, all the customer should need to do is install the product and turn it on. We also strive to make our products versatile.
+> At JECK™, we believe in creating simple and durable devices that assist with everyday life. This starts with ensuring the user experience is as straightforward as possible; no need for ridiculously long instructions. Ideally, all the customer should need to do is install the product and turn it on. We also strive to make our products versatile.
 
 ## Product Mission Statement
 
