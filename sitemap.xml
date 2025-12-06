@@ -36,6 +36,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Reflection/</loc>
+         <lastmod>2025-12-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://embedded-systems-design.github.io/EGR304TeamTemplate/Resources/</loc>
          <lastmod>2025-12-06</lastmod>
          <changefreq>daily</changefreq>
