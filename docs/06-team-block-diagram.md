@@ -10,9 +10,9 @@ The subsystems are now connected in a **hub-and-spoke configuration**, where eac
 
 Below is a diagram of the **hub-and-spoke setup**, visualizing the **connections and data flow** between the individual subsystems:
 
-![Team Subsystem Hub-and-Spoke Diagram](images/Hub%20and%20Spoke%20TBD_update%20.drawio.png)
+![Team Subsystem Hub-and-Spoke Diagram](images/Hub%20and%20Spoke%20TBD_update%20.drawio%20(1).png)
 
-> **Note:** You can [download the Hub-and-Spoke diagram as a PNG](images/Hub%20and%20Spoke%20TBD_update%20.drawio.png)
+> **Note:** You can [download the Hub-and-Spoke diagram as a PNG](images/Hub%20and%20Spoke%20TBD_update%20.drawio%20(1).png)
 
 > **Reminder:** Every subsystem has a different function, and all team contributions come together to form the complete system.
 
