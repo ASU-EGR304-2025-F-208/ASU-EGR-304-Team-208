@@ -9,4 +9,4 @@ The diagram illustrates the core operation of the Water Detection Subsystem. The
 > **Note:** If any of the outputs—**humidity**, **pressure loss**, or **water**—are detected, the **alarm will be triggered**.
 
 
-![showcase](images/Team%20Software%20Proposal.drawio.png)
+![showcase](images/TeamSoftware%20Proposalnum2.png)
