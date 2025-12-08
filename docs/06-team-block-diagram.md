@@ -12,7 +12,7 @@ Below is a diagram of the **hub-and-spoke setup**, visualizing the **connections
 
 ![Team Subsystem Hub-and-Spoke Diagram](images/Hub%20and%20Spoke%20TBD_update%20.drawio%20(1).png)
 
-For the entire system, Khalid, as the hub, provides the device with the alarm system. Turning on the lights whenever it is informed that something has been detected. In turn, the three spokes all have different sensors that send data to the hub. Julian's spoke is a pressure system built into a water pipeline to check that the water is at the right level. Cristopher measures the humidity and temperature of the area where the device is placed. Lastly, Elisabeth's detector detects the presence of water. If any sensor gives a value that is too high, the signal is then sent to Khalid, and the alarm goes off.
+For the entire system, Khalid, as the hub, provides the device with the alarm system. Turning on the lights whenever it is informed that something has been detected. In turn, the three spokes all have different sensors that send data to the hub. Julian's spoke is a pressure system built into a water pipeline to check that the water is at the right level. Cristopher measures the humidity and temperature of the area where the device is placed. Lastly, Elisabeth's detector detects the presence of water. If any sensor gives a value that is too high, the signal is then sent to Khalid, and the alarm goes off. With all of these systems in place, it allows the final product ot be a versatile water leak sensor suited for any place in a house, as it will detect any water, and inform the homeowner immediately of its presence.
 
 > **Note:** You can [download the Hub-and-Spoke diagram as a PNG](images/Hub%20and%20Spoke%20TBD_update%20.drawio%20(1).png)
 
