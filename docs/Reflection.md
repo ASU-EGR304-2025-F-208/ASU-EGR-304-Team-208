@@ -4,10 +4,17 @@ title: Reflection
 
 ### Reflection
 
--Lessons Learned: What are the top 10 most important things that your team learned from working on this project? You may use feedback received from the design review and content you discussed in status reports to address this section. (use full sentences, ½ page minimum)
 ## 10 important things learned
 
-- When designing the pcb, give each foot print bigger solder pads then just he minimum
+- When designing the pcb, give each foot print bigger solder pads then just the minimum. Its better to have bigger pads then needed so the solder get properly put on the board.
+- Traces at 45 degrees angles, while not the craziest thing taught in the course. It is jsut good practice, and built a good habbit when it comes ot PCB design, even if the rule is mostly just for something like high amperage.
+- Other good practice things like having ground/negative always facing down, or voltage facing up. It both makes creating schematics easier, along with reading them easier.
+- Using headers and jumpers in a pcb as test points along with being failsafes. It makes a lot easier to design proto boards with failsafes like these when they are already added in from the get go as spare headers or jumpers. So rather then always having to go look where you can fit a spare in, you just have them from the get go on the schematic.
+- Using UaRT systems to directly print data into a program like PuTTY. This skill came real in handy when debugging code if you only have 1 variable as it constantly shows it value.
+- Learning to use tools like the osciliscope. Just an all around useful skill when working with analog devices as gives a visual of the waveform being produced.
+- How to calculate the value of fuse that hsould be used in a given circuit based off of a power budget. Along with allowing for a margin of safety of around 20%. A skill that will be used for years to come.
+- Checking if the parts you order have good data sheets. It's jsut a good test to see if the part will be usable and not a nightmare to work with.
+- 
 
 ## 5 things for the next students
 
