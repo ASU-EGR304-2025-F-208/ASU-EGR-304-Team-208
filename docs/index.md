@@ -23,6 +23,10 @@ Each sensor continuously monitors different environmental conditions and sends d
 
 This system is designed to give users peace of mind by providing early detection and alerts for both large leaks and small, hard-to-notice leaks. By identifying issues before they cause damage, our solution helps prevent costly water damage and protect valuable property.
 
+## Final Picture of Water Detection System
+
+![FinalPic](images/finalimagepTP.png){style width:"350" height:"300;"}
+
 
 ## Team Members Datasheet links
 
